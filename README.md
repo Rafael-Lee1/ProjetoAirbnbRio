@@ -48,7 +48,7 @@ Vamos descobrir o quanto esses fatores impactam e se temos outros fatores não t
 
 
 <div>
-<p>Confira o passo a passo do codigo <a href="https://github.com/Rafael-Lee1/ProjetoAirbnbRio.git" target="_blank" rel="noopener noreferrer">aqui</a>.</p>
+<p>Confira o passo a passo do codigo em <a href="https://github.com/Rafael-Lee1/ProjetoAirbnbRio.git" target="_blank" rel="noopener noreferrer">Solução Airbnb Rio.py</a>.</p>
 </div>
 
 
